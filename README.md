@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stolle323
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java Script
